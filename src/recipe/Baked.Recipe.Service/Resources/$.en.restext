@@ -1,0 +1,4 @@
+cannot_use_caster_before_setting_IServiceProvider=Cannot use Caster before setting IServiceProvider
+TYPE_with_FIELD__VALUE_does_not_exist={0:T} with {1:F}: '{2:V}' does not exist
+no_query_file_with_NAME_was_found=No query file with '{0:N}' was found
+looked_for_a_value_KEY_in_configurations_but_could_not_found=Looked for a value {0:K} in Configurations, but could not found
